@@ -1,6 +1,5 @@
 # Arduino Eye Blink Detection System with MediaPipe
 
-![Project Banner](assets/banner.jpg) <!-- Placeholder for a project image; replace with actual image -->
 
 A real-time eye blink detection system integrating MediaPipe-based computer vision with Arduino hardware to monitor prolonged eye closure for applications like driver drowsiness detection. A Python script processes webcam input to detect eye status and sends serial commands to an Arduino Uno, which controls a motor (via a motor control module) and triggers a buzzer when eyes are closed for over 2 seconds.
 
