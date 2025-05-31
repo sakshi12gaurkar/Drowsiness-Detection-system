@@ -230,5 +230,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Contact**:  
-For questions or feedback, reach out via [your-email@example.com](mailto:your-email@example.com) or open an issue on GitHub.
