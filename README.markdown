@@ -25,7 +25,7 @@ A real-time eye blink detection system integrating MediaPipe-based computer visi
 ## Project Overview
 This project combines advanced computer vision with embedded systems to detect prolonged eye closure, enhancing safety in automotive settings. A Python script running on a computer uses MediaPipe to calculate the Eye Aspect Ratio (EAR) from webcam input, determining eye status (open, closed, or no face detected). The status is sent via serial communication to an Arduino Uno, which stops a motor and activates a buzzer if eyes are closed for more than 2 seconds, indicating potential drowsiness. The system achieves ~95% accuracy in controlled environments and showcases skills in computer vision, serial communication, and hardware-software integration.
 
-Developed as part of a thesis project, this prototype is ideal for IoT, wearable devices, and real-time monitoring applications.
+Developed as prototype which is ideal for IoT, wearable devices, and real-time monitoring applications.
 
 ## Features
 - **Real-Time Detection**: Processes webcam frames to detect eye status using MediaPipe.
